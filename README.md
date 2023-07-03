@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/Download-VSCode-hsl)
+![Static Badge](https://img.shields.io/badge/Download-Python-hsl)
+![Static Badge](https://img.shields.io/badge/Download-OpenCV-hsl)
+
 # Nullclass_tasks
 
 ![image](https://github.com/Netri-100224/Nullclass_tasks/assets/115025996/961832c9-19f0-4a77-8799-117ba3980183)              
